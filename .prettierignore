@@ -1,0 +1,8 @@
+/.*/*
+coverage
+dist
+node_modules
+.*ignore
+LICENSE
+package-lock.json
+README.md
